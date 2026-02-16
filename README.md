@@ -7,7 +7,7 @@
 
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=MhmdNsr&label=Profile+Views&color=0e75b6&style=flat" />
+  <img src="https://komarev.com/ghpvc/?username=fullstackwizardry&label=Profile+Views&color=0e75b6&style=flat" />
 </p>
 
 
@@ -28,54 +28,45 @@ Focused on clean architecture, secure implementation, and business-oriented deve
 🧰 Tech Stack
 
 Languages
-	•	
+
 
  JavaScript
 
-	•	
 
  TypeScript
 
-	•	
 
  Python
 
 Frontend
-	•	
 
  React.js
 
-	•	
 
  Next.js
 
-	•	
 
  TailwindCSS
 
 Backend
-	•	
 
  Express.js
 
-	•	
 
  NestJS
 
-	•	
 
  FastAPI
 
-	•	
 
  Flask
 
 Databases
-	•	
+
 
  PostgreSQL
 
-	•	
+
 
  MySQL
 
