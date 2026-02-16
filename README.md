@@ -1,54 +1,137 @@
-<h1 align="center">MhmdNsr — Full-Stack Web Developer</h1>
-<h3 align="center">Freelance Engineer • Production-Ready Web Solutions</h3>
+<h1 align="center">MhmdNsr</h1>
 
----
 
-## 💼 Freelance Profile
-I design and build scalable, secure, and high-performance web applications from concept to deployment.  
-If you need a developer who understands both product goals and engineering depth, you're in the right place.
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?size=28&duration=3000&color=00F7FF&center=true&vCenter=true&width=700&lines=Full-Stack+Web+Developer;JavaScript+%26+TypeScript+%26+Python;Next.js+%2F+React+%2F+Express;Freelance+Engineer+Available" />
+</p>
 
-✔ Available for freelance projects  
-✔ Open to long-term collaborations  
-✔ Focused on clean, maintainable architecture  
 
----
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=MhmdNsr&label=Profile+Views&color=0e75b6&style=flat" />
+</p>
 
-## 🛠 Core Stack
 
-### Languages
-JavaScript
-Python
 
-### Frontend Engineering
-React
-Next.js
-TailwindCSS
+⸻
 
-### Backend Engineering
-Express.js
-NestJS
-FastAPI
-Flask
+💼 Freelance Engineer Profile
 
----
+I build production-grade web applications engineered for performance, scalability, and maintainability.
+Focused on clean architecture, secure implementation, and business-oriented development.
 
-## ⚙️ Services I Offer
-- Full-Stack Web App Development  
-- REST API Architecture  
-- Admin Dashboards & Panels  
-- Performance Optimization  
-- Bug Fixing & Refactoring  
-- MVP Development for Startups  
+✔ Available for freelance work
+✔ Open to long-term collaborations
+✔ Architecture-first mindset
 
----
+⸻
 
-## 🧠 Development Principles
-- Scalable architecture first  
-- Clean & readable codebase  
-- Security-aware implementation  
-- Performance-optimized queries & rendering  
-- Production-ready deployments  
+🧰 Tech Stack
 
----
+Languages
+	•	
 
-⭐ Pinned repositories below demonstrate real engineering work, architecture decisions, and coding standards..
+ JavaScript
+
+	•	
+
+ TypeScript
+
+	•	
+
+ Python
+
+Frontend
+	•	
+
+ React.js
+
+	•	
+
+ Next.js
+
+	•	
+
+ TailwindCSS
+
+Backend
+	•	
+
+ Express.js
+
+	•	
+
+ NestJS
+
+	•	
+
+ FastAPI
+
+	•	
+
+ Flask
+
+Databases
+	•	
+
+ PostgreSQL
+
+	•	
+
+ MySQL
+
+⸻
+
+⚙️ Services
+	•	Full-Stack Web Applications
+	•	RESTful API Systems
+	•	SaaS Platforms
+	•	Admin Dashboards & Panels
+	•	Performance Optimization
+	•	Refactoring Legacy Code
+	•	MVP Development for Startups
+
+⸻
+
+🧠 Engineering Principles
+
+Architecture > Code
+Readability > Cleverness
+Security > Convenience
+Performance > Premature Optimization
+
+
+⸻
+
+📊 GitHub Analytics
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=MhmdNsr&show_icons=true&theme=tokyonight&hide_border=true"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=MhmdNsr&theme=tokyonight&hide_border=true"/>
+</p>
+
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MhmdNsr&layout=compact&theme=tokyonight&hide_border=true"/>
+</p>
+
+
+
+⸻
+
+🏆 Professional Mindset
+
+Engineering solutions, not just writing code.
+
+⸻
+
+📬 Contact
+
+📩 Open an issue in any repository
+⚡ Typical response time: < 24 hours
+
+⸻
+
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0ea5e9,100:9333ea&height=120&section=footer"/>
+</p>
