@@ -15,48 +15,40 @@ If you need a developer who understands both product goals and engineering depth
 
 ## 🛠 Core Stack
 
-Languages  
-JavaScript • Python  
+### Languages
+JavaScript
+Python
 
-Frontend Engineering  
-React • Next.js • TailwindCSS  
+### Frontend Engineering
+React
+Next.js
+TailwindCSS
 
-Backend Engineering  
-Express.js • FastAPI • Flask  
+### Backend Engineering
+Express.js
+NestJS
+FastAPI
+Flask
 
 ---
 
 ## ⚙️ Services I Offer
-- Full-Stack Web App Development
-- REST API Architecture
-- Admin Dashboards & Panels
-- Performance Optimization
-- Bug Fixing & Refactoring
-- MVP Development for Startups
+- Full-Stack Web App Development  
+- REST API Architecture  
+- Admin Dashboards & Panels  
+- Performance Optimization  
+- Bug Fixing & Refactoring  
+- MVP Development for Startups  
 
 ---
 
 ## 🧠 Development Principles
-- Scalable architecture first
-- Clean & readable codebase
-- Security-aware implementation
-- Performance-optimized queries & rendering
-- Production-ready deployments
+- Scalable architecture first  
+- Clean & readable codebase  
+- Security-aware implementation  
+- Performance-optimized queries & rendering  
+- Production-ready deployments  
 
 ---
 
-## 📊 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=fullstackwizardry&show_icons=true&theme=tokyonight"/>
-</p>
-
----
-
-## 📬 Hire Me
-📩 Open an issue in any repo or contact via GitHub profile.  
-⚡ Response time: usually within 24 hours.
-
----
-
-⭐ Pro Tip for Clients:  
-Pinned repositories below showcase real project architecture, coding standards, and problem-solving approach.
+⭐ Pinned repositories below demonstrate real engineering work, architecture decisions, and coding standards..
